@@ -1,0 +1,31 @@
+/* styles.css */
+
+/* Sentence 1 */
+.sentence1 {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
+
+/* Sentence 2 */
+.sentence2 {
+    font-family: "Times New Roman", serif;
+    font-size: 18px;
+}
+
+/* Sentence 3 */
+.sentence3 {
+    font-family: "Courier New", monospace;
+    font-size: 18px;
+}
+
+/* Sentence 4 */
+.sentence4 {
+    font-family: Georgia, serif;
+    font-size: 18px;
+}
+
+/* Sentence 5 */
+.sentence5 {
+    font-family: Verdana, sans-serif;
+    font-size: 18px;
+}
